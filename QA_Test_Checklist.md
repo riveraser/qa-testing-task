@@ -1,5 +1,7 @@
 # QA Test Checklist - Quick Testing Guide
 
+Please go to https://github.com/riveraser/qa-testing-task to get the original .MD file
+
 ## Pre-Testing Setup
 
 - [✅] Plugin installed and activated

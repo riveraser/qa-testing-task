@@ -1,9 +1,11 @@
 # QA Test Report - WordPress Plugin Testing
 
+Please go to https://github.com/riveraser/qa-testing-task to get the original .MD file
+
 **Plugin Name:** QA Applicants Test  
 **Version:** 1.0.0  
-**Tester:** Sergio Rivera
-**Date:** 06/22/2025
+**Tester:** Sergio Rivera  
+**Date:** 06/22/2025  
 **WordPress Version:** 6.8.1
 
 ---
