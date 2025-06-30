@@ -368,14 +368,17 @@ The QA Applicants Test plugin has significant functionality but contains several
 ### Form Validation Errors
 
 ![Empty form with validation messages](screenshots/empy-form-messages.png)
+
 _Figure 1: Form showing validation error messages when submitted with empty required fields_
 
 ### Missing October in Month Dropdown
 
 ![Month dropdown missing October](screenshots/missing-october.png)
+
 _Figure 2: Month dropdown showing missing October option_
 
 ### After Form Submission
 
 ![Form after successful save](screenshots/form-after-save.png)
-_Figure 3: Form displaying saved data after successful submission_
+
+_Figure 3: Form displaying saved data after successful submission, Website and Nickname are not persited_
