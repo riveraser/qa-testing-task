@@ -21,5 +21,7 @@ No automated tests are included; all QA was performed manually and is documented
 If you have any questions, please refer to the Markdown files or contact me at sergi.erm@gmail.com
 
 Sergio Rivera
+
 Full Stack Developer
+
 https://www.linkedin.com/in/sergio-rivera-morales
